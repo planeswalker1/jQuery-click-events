@@ -23,3 +23,13 @@ section.image {
 #image-showing {
   display: none;
 }
+
+.clickable {
+  color: #0088cc;
+  cursor: pointer;
+}
+
+.clickable:hover {
+  border-bottom: 1px solid #0088cc;
+  padding-bottom: 3px;
+}
