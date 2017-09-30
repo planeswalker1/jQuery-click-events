@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.65;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
