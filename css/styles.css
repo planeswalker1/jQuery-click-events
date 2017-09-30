@@ -18,3 +18,8 @@ h1 {
 section.image {
   margin-top: 15px;
 }
+
+#bird-showing,
+#image-showing {
+  display: none;
+}
