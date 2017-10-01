@@ -27,3 +27,4 @@ _If you run into any issues or have questions, ideas or concerns contact me at d
 _HTML_
 _CSS_
 _JS_
+_jQuery_
